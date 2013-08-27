@@ -1,6 +1,6 @@
 Open-spirometer
 ====
-A spirometer is a device that measures your breathing. This is particularly helpful medically for the managment of chronic lung diseases such as asthma, pulmonary fibrosis, cystic fibrosis, and COPD.
+A spirometer (http://en.wikipedia.org/wiki/Spirometry) is a device that measures your breathing. This is particularly helpful medically for the managment of chronic lung diseases such as asthma, pulmonary fibrosis, cystic fibrosis, and COPD.
 
 Open-spirometer is special because it's design will be open and because it will capture and share, with user consent, high quality open spirometry data from day one. 
 
