@@ -19,3 +19,7 @@ The idea is to develop a tool that would be widely affordable and would standard
 Over the next six months we hope to create a promising design based on some objectives and requirements, and develop a compelling proof-of concept (including the basic hardware and a simple GUI), that will help us generate enthusiasm for the project and accelerate its development.
 
 We hope you will help us develop a tool that could dramatically improve global respiratory health. We intend to grow an online community for the project, and, hopefully, to interact with other interested designers, engineers, respiratory physicians, and scientists around the world." (http://openspirometry.org/about/) 
+
+Recent interest
+===
+http://inventorsgarage.com/blog4/2013/05/03/open-spirometry/
