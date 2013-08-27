@@ -1,6 +1,8 @@
-=== Open Spirometry ===
+Open Spirometry
+===
 
-= An open-source, low-cost, web-guided spirometer
+An open-source, low-cost, web-guided spirometer
+====
 
 URL = http://web.archive.org/web/20090622025613/http://openspirometry.org/
 
