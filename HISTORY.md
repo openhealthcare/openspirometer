@@ -20,6 +20,8 @@ Over the next six months we hope to create a promising design based on some obje
 
 We hope you will help us develop a tool that could dramatically improve global respiratory health. We intend to grow an online community for the project, and, hopefully, to interact with other interested designers, engineers, respiratory physicians, and scientists around the world." (http://openspirometry.org/about/) 
 
-Recent interest
+Recent interest / work in this area
 ===
 http://inventorsgarage.com/blog4/2013/05/03/open-spirometry/
+
+http://ubicomplab.cs.washington.edu/wiki/SpiroSmart
