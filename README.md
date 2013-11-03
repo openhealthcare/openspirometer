@@ -51,6 +51,8 @@ https://twitter.com/ohcuk
 
 channel #ohc_dev on freenode
 
+https://docs.google.com/document/d/1gvlvsJGYwKLe5FtpEOpRt48q_SDEKZP6m3eb6Pu2tlc/edit
+
 Demo
 ======
 not yet
