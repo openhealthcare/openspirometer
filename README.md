@@ -11,7 +11,7 @@ Open-spirometer is an open (open governance/design/hardware/source) commercial h
 
 What problem does Open-spirometer solve?
 ======
-Open-spirometer aims to solve the paucity of high quality independant open spirometry data problem. We think patients and health care professionals would be empowered to make better decisions together if they had better data. At present spirometery data often lies locked up in proprietary spirometry devices and non-digital data formats. This is suboptimal.
+Open-spirometer aims to solve the paucity of high quality independant open spirometry data problem. We think patients and health care professionals would be empowered to make better decisions together if they had better data. At present spirometery data often lies locked up in proprietary spirometry devices and non-digital data formats. This is suboptimal. Why we need an open spirometer is also described in a blog post here http://www.openhealthcare.org.uk/?p=449
 
 
 Open governance
