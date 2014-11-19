@@ -20,27 +20,55 @@
 
             <Button
                 android:id="@+id/btnStart"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:text="Start"/>
+                android:text="Start"
+                android:onClick="btnStart_click"/>
 
             <Button
                 android:id="@+id/btnStop"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:text="Stop"
-                android:enabled="false"/>
+                android:visibility="invisible"
+                android:onClick="btnStop_click"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/darker_gray"/>
+
+            <Button
+                android:id="@+id/btnNext"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:enabled="false"
+                android:onClick="btnNext_click"/>
+            <Button
+                android:id="@+id/btnPrevious"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Previous"
+                android:enabled="false"
+                android:onClick="btnPrevious_click"/>
+            <Button
+                android:id="@+id/btnDelete"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Delete"
+                android:enabled="false"
+                android:onClick="btnDelete_click"/>
 
         </LinearLayout>
 
 
-        <com.androidplot.xy.XYPlot
-            android:visibility="invisible"
-            android:id="@+id/plot"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
+        <RelativeLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
 
-            androidPlot.graphWidget.gridLinePaint.color="#000000"/>
+        </RelativeLayout>
     </LinearLayout>
 
 

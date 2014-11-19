@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.iandavies.android.flowrateexperiment.StatsFragment">
+
+    <TableLayout
+        android:id="@+id/statsTable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" >
+
+        <TableRow>
+            <TextView android:background="@drawable/header_cell_shape" android:padding="10dp" android:textStyle="bold" android:text="Recording"/>
+            <TextView android:background="@drawable/header_cell_shape" android:padding="10dp" android:textStyle="bold" android:text="PEFR"/>
+            <TextView android:background="@drawable/header_cell_shape" android:padding="10dp" android:textStyle="bold" android:text="FEV1"/>
+            <TextView android:background="@drawable/header_cell_shape" android:padding="10dp" android:textStyle="bold" android:text="FEV6"/>
+            <TextView android:background="@drawable/header_cell_shape" android:padding="10dp" android:textStyle="bold" android:text="FEV1/FEV6"/>
+            <TextView android:background="@drawable/header_cell_shape" android:padding="10dp" android:textStyle="bold" android:text="FVC"/>
+            <TextView android:background="@drawable/header_cell_shape" android:padding="10dp" android:textStyle="bold" android:text="FEV1/FVC"/>
+        </TableRow>
+
+        </TableLayout>
+
+</FrameLayout>
